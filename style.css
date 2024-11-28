@@ -1,0 +1,11 @@
+/* .container{
+    background-color: aqua;
+} */
+.collapse{
+    display: flex;
+    justify-content: space-between;
+}
+.Wellcome{
+    display: flex;
+    justify-content: center;
+}
